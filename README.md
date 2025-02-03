@@ -1,6 +1,6 @@
 # ChatApp (Socket.io)
 
-A real-time chat application built using **Socket.io, JavaScript, HTML, and CSS**. This simple web-based chat app allows users to communicate instantly over WebSockets.
+A real-time chat application built using **Socket.io, JavaScript, HTML and CSS**. This simple web-based chat app allows users to communicate instantly over WebSockets.
 
 ## Features
 - Real-time messaging using **Socket.io**  
@@ -16,7 +16,7 @@ A real-time chat application built using **Socket.io, JavaScript, HTML, and CSS*
 ## How to Clone and Run
 
 ### Prerequisites
-Make sure you have **Node.js** installed on your system.
+- Make sure you have **Node.js** installed on your system.
 
 ### Steps to Run the Project
 
